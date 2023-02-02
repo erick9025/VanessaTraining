@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreFramework", "MarioTraining\CoreFramework.csproj", "{B94B6AAF-ADA3-4D51-8487-B093A80470B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCasesNUnit", "TestCasesNUnit\TestCasesNUnit.csproj", "{30BA50BA-7602-49B2-867B-79BD3578ED45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94B6AAF-ADA3-4D51-8487-B093A80470B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94B6AAF-ADA3-4D51-8487-B093A80470B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94B6AAF-ADA3-4D51-8487-B093A80470B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94B6AAF-ADA3-4D51-8487-B093A80470B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BA50BA-7602-49B2-867B-79BD3578ED45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BA50BA-7602-49B2-867B-79BD3578ED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BA50BA-7602-49B2-867B-79BD3578ED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BA50BA-7602-49B2-867B-79BD3578ED45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {945D7CC1-D495-4A45-B722-20EEB5E0FB43}
+	EndGlobalSection
+EndGlobal
