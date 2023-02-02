@@ -10,7 +10,7 @@ namespace TestCasesNUnit
         public void SearchSomething()
         {
             Pages.GooglePage
-               .Search("El dolar hoy");
+               .Search("El euro hoy");
         }
     }
 }
